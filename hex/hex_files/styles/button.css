@@ -1,0 +1,31 @@
+.button1 {
+	color: rgb(230, 200, 0);
+	font-weight: 900;
+	border: none;
+	border-radius: 30px;
+	background: black;
+	display: inline-block;
+}
+
+.button1:hover {
+	color: rgb(255, 240, 0);
+	background: rgb(50, 50, 50);
+}
+
+#startButton {
+	font-size: var(--font1_size);
+	padding-left: var(--padding1_size);
+	padding-right: var(--padding1_size);
+}
+
+.little_button {
+	font-size: var(--font2_size);
+	padding-left: var(--padding2_size);
+	padding-right: var(--padding2_size);
+
+	margin: 5px;
+}
+
+.button_div {
+	text-align: right;
+}
