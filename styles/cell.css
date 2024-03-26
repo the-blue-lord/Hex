@@ -1,0 +1,23 @@
+.cell {
+    width: 90%;
+    height: 0;
+    padding-bottom: 90%;
+    border: 5px solid yellow;
+    background-color: inherit;
+}
+
+.player1_start {
+    border-bottom: 5px solid blue;
+}
+
+.player1_end {
+    border-top: 5px solid blue;
+}
+
+.player2_start{
+    border-top: 5px solid red;
+}
+
+.player2_end{
+    border-bottom: 5px solid red;
+}

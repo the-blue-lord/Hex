@@ -1,0 +1,25 @@
+#settings {
+	color: rgb(230, 200, 0);
+	font-weight: 900;
+	border: none;
+	border-radius: 10px;
+	background: black;
+    text-align: left;
+
+    padding: 5px;
+}
+
+input {
+    height: 50px;
+    margin: 10px;
+    vertical-align: middle;
+    border: 2px solid yellow;
+    background-color: black;
+    color: yellow;
+	font-weight: 900;
+    font-size: 30px;
+}
+
+input[type="text"] {
+    width: 50%;
+}

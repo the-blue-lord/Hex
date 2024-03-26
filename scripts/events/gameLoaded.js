@@ -1,0 +1,4 @@
+function gameLoaded() {
+    gameStart();
+    return;
+}
